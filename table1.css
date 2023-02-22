@@ -1,0 +1,36 @@
+
+.main-heading{
+    color:rgb(0, 0, 0);
+    font-size:50px;
+    font-display:calc();
+    font-family:fantasy;
+}
+.second-heading{
+    background-color: rgb(116, 29, 29);
+    border: solid 2PX;
+    border-radius: 5PX;
+    color:aliceblue;
+    text-align: center;
+    
+}
+
+.third-heading{
+    background-color: rgb(181, 58, 58);
+    color: aliceblue;
+    font-family:fantasy;
+    font-size:35px;
+    text-align: left;
+   
+}
+
+.a{
+    text-underline-position: under ;
+    text-align: center;
+    border-style: round ;
+}
+
+
+ 
+
+   
+
